@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import { useState} from "react";
-import { Link } from "react-router-dom";
 import Footer from "./defaultComponents/footer";
 import LogoBar from "./defaultComponents/logoBar";
 import axios from 'axios'
