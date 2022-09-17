@@ -77,7 +77,7 @@ button{
 }
 @font-face {
   font-family: monopoly;
-  src: url(/Users/bobomarcu/Desktop/monopoly/client/src/componente/fonts/MONOPOLY_INLINE.ttf);
+  src: url(../src/componente/fonts/MONOPOLY_INLINE.ttf);
 }
 
 @media only screen and (max-width: 1000px) {
