@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.214c8f8a.css",
+    "main.js": "/static/js/main.a36c8800.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/MONOPOLY_INLINE.ttf": "/static/media/MONOPOLY_INLINE.8f45fec90871a3ba246c.ttf",
+    "static/media/monopoly-logo.png": "/static/media/monopoly-logo.7d660bae1dd1aacc4aa5.png",
+    "index.html": "/index.html",
+    "main.214c8f8a.css.map": "/static/css/main.214c8f8a.css.map",
+    "main.a36c8800.js.map": "/static/js/main.a36c8800.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.214c8f8a.css",
+    "static/js/main.a36c8800.js"
+  ]
+}
